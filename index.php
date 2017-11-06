@@ -1,5 +1,4 @@
 <?php
 echo "HENRIQUE FERNANDES";
-
-echo "2";
+echo "1 e 2";
 ?>
